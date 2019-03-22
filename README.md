@@ -1,2 +1,6 @@
 # gravitationalForce
-Learning JavaScrip programming with @shiffman and the @thecodingtrain.
+
+X/Y
+
+
+https://cardonajd.github.io/gravitationalForce/.
