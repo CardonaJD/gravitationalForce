@@ -1,7 +1,4 @@
 # gravitationalForce
-
-F = m<sub>1</sub> * m<sub>2</sub> / r^2 
-
-  h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
+[!first equation](http://latex.codecogs.com/gif.latex?F%20%3DG%5Ccdot%5Cfrac%7Bm_2%20%5Ccdot%20m_1%7D%7Br%5E%7B2%7D%7D)
 
 https://cardonajd.github.io/gravitationalForce/.
